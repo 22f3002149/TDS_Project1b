@@ -2,7 +2,7 @@ fastapi
 httpx
 numpy
 argparse
-google.generativeai
+google-genai
 openai
 pydantic
 uvicorn
