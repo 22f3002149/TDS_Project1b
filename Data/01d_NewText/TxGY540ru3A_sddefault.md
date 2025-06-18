@@ -1,0 +1,1 @@
+This slide features a modern, tech-themed navy blue background with a central black rectangle for displaying content. Prominently centered are large white text labels indicating "WEEK 2" and "SESSION 4". Decorative colorful flat icons border the top and bottom edges, signifying various tools and concepts within this educational segment.

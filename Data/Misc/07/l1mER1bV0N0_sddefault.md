@@ -1,0 +1,1 @@
+This image presents a bright red banner reading "Do You Know All These Selectors?" against a stark black background. On the right is a close-up of a man's face with an intrigued expression. The composition aims to grab attention and prompt viewers interested in web development, specifically CSS selectors, to evaluate their knowledge level.

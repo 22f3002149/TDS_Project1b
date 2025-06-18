@@ -1,0 +1,1 @@
+A cricket player in a blue India jersey celebrates with arms raised after scoring, visible through blurred stadium lights on his computer screen. His desktop displays multiple open windows: file explorers showing "CricketPeople" and "Strategy", a browser view, and notably, an active video call window from what appears to be another individual.

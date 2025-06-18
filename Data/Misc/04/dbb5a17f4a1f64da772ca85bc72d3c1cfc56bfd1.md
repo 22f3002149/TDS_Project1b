@@ -1,0 +1,1 @@
+This image captures the settings interface for [GitHub Pages](https://ulaqaozhan.github.io/TDS-page/) within the repository `ULAQAOZHAN/TDS-page`. It displays configuration options including deployment from the 'main' branch, custom domain setup, and provides a live site URL (`https://ulaqaozhan.github.io/TDS-page/`).

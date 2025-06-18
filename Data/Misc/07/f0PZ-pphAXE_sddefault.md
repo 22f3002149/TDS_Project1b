@@ -1,0 +1,1 @@
+This slide promotes a data science course module titled "Get the Data," focusing on Nominatim and Open Street Maps. Instructor Anand S is credited, with Mahesh Balan U listed as Tutorial Instructor. The branding includes IIT Madras Online Degree.

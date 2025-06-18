@@ -1,0 +1,3 @@
+The image shows Google Chrome running on a Windows computer screen. It displays the dark mode Google AI Studio interface featuring a sidebar menu (including "AI Studio") and a central pane with prompt input, alongside run settings like temperature and top-k configurations.
+
+A video call window sits beside it showing Anand Subramanian speaking to the user. Multiple browser tabs are visible at the top of the screen, indicating multitasking during this AI-related task involving system instructions.

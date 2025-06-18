@@ -1,0 +1,1 @@
+This screenshot captures an online Excel tutorial focused on organizing voting data by separating a combined name/status column (column A). The instructional step, "Convert Text to Columns Wizard – Step 3 of 3," is visible alongside the spreadsheet. In the corner, a video call shows interaction between the presenter and learner through chat controls.

@@ -1,0 +1,1 @@
+This promotional graphic presents an educational image for SQLite databases. On the right, a woman wearing a light grey jacket smiles directly at the viewer. Beside her on the left sits the modern blue SQLite logo ("SQLite") in a clean font, with "Databases" text below it. The dark navy background features subtle grid lines evoking digital structure and network concepts.

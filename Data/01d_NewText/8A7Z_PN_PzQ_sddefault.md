@@ -1,0 +1,3 @@
+This graphic features a dark black background surrounded by an intricate, colourful geometric border incorporating diverse icons like tools, technology symbols, circuit boards, and various shapes alongside records.
+
+The central focus is clear: "WEEK 4" in bold white text sits atop "SESSION 1", suggesting it's a lesson or module title card. The vibrant patterned border likely represents the course content's blend of design thinking, creative problem-solving, technology, and analytical skills development within this week's session.

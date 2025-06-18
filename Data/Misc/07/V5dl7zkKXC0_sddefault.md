@@ -1,0 +1,1 @@
+This Heroku dashboard screenshot shows configuring automatic deployments for an application connected to a pipeline. The setup indicates deployment from GitHub, specifically 'robnix-demo/heroku-ci', and enables automatic builds when changes are pushed to the main branch triggering new releases.

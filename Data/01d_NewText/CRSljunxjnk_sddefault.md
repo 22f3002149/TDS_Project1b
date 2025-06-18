@@ -1,0 +1,1 @@
+This presentation slide outlines data modeling techniques categorized by software tool. Excel supports basic analysis like Correlation, Regression, and Outlier detection. Python excels at advanced tasks such as Classification, Forecasting (like ARIMA), and Clustering. A third category labeled "Others" encompasses additional tools or methods not specified further in this text.

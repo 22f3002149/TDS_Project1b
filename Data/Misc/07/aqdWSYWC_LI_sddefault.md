@@ -1,0 +1,1 @@
+This image captures a Python code snippet defining flight information parameters (`loc_origin`, `loc_destination`) within an OpenAI/LangChain function calling context, annotated with arrows and text overlay reading **FUNCTIONS EXPLAINED**.

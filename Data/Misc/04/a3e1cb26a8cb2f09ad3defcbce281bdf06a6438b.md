@@ -1,0 +1,3 @@
+This assignment webpage details **TDS GA1 - Development To**. It provides instructions with a numbered list of tips: skip reading if desired; utilize "Check" for feedback and "Save" to preserve work; reloading is okay due to potential browser issues; any resources (including the internet or tools like ChatGPT) are permitted.
+
+The page also contains lenient grading guidance, suggesting completing within 2 hours likely yields a satisfactory grade ("OK"), while achieving an 8/10 score could lead to an "A". The assignment was **ended at Sun, 26 Jan, 2025, 11:59 pm IST**.

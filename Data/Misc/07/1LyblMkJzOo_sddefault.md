@@ -1,0 +1,1 @@
+This slide serves as an introduction to data science tools, titled "Get the Data." It features S Anand (CEO/Co-founder of Gramener) from IIT Madras. The presentation includes a BSc degree mention and five dots indicating sections covered so far.

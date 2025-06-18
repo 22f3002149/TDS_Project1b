@@ -1,0 +1,1 @@
+This image promotes a video tutorial on REST APIs with a clean design. A dark blue background provides high contrast. Prominent white text reads "REST APIs" followed by "in 1 Hour". On the left, an instructor with curly brown hair and a beard looks directly at the viewer, suggesting expertise in this concise learning session.

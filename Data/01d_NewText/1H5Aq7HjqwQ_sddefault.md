@@ -1,0 +1,1 @@
+This title slide or banner is designed for a session/week/session titled 'WEEK 1' and 'SESSION 1'. It features decorative, geometric borders with icons suggesting science (molecular structure) and design (tools). A dark blue central area hosts white text on bright backgrounds against colorful accents.

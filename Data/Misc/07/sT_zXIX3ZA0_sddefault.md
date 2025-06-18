@@ -1,0 +1,1 @@
+A screenshot shows a dark VS Code editor displaying README.md with GitHub Actions-related code. The sidebar displays the 'blackbytes-on-main-mrpwdf' project's GitHub Actions workflow runs, highlighting '#4404 (Invitation.label)' as successful and others pending/failed. Tabs include "Preview README.md" and status information appears in the bottom bar.

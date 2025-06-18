@@ -1,0 +1,1 @@
+This dark-themed screenshot captures a tutorial interface for the 'ngrok' software, designed to create secure tunnels from local servers to the internet quickly ("In 60 seconds"). Prominent text highlights "NGROK" on the right. A vertical panel on the left displays options or commands within this development environment setting.

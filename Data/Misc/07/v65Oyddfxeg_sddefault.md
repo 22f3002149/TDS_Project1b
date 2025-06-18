@@ -1,0 +1,1 @@
+This dark, ornate promotional graphic showcases "MarkItDown," a reliable file-to-Markdown conversion service. A golden mandala design is central, flanked by two buttons offering different access routes - one for an interactive demo and another suggesting faster local download, both featuring the Microsoft logo against coral-orange backgrounds on a muted brown/black background.

@@ -1,0 +1,3 @@
+This markdown summary captures the key aspects of the provided text about an image:
+
+The screenshot depicts a web application interface designed to predict credit card default probabilities. A prominent title announces its purpose, and users input specific parameters (ID, CODE_GENDER, FLAG_OWN_CAR, etc.) into designated fields on the dark background UI. The browser window indicates it's running on macOS.

@@ -1,0 +1,1 @@
+This image captures a tutorial on using **GitHub Pages** to host websites. The presenter explains how the service allows easy creation of personal or organizational sites by selecting themes directly in the interface. Key features emphasized include its design for simple web hosting and providing various theme options through "Theme Chooser".

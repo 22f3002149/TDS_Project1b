@@ -1,0 +1,1 @@
+This three-panel comic depicts a programmer's surreal encounter reading a LISP book. In bed ("Huh?"), they experience blue bathed enlightenment seeing nested structures dance before them. Finally, they meet an imposing "Lisp God," joking that it was actually built primarily using Perl.

@@ -1,0 +1,1 @@
+This image shows a JavaScript debugging session focused on `querySelectorAll`. It details potential reasons for the selector failure, such as no matching elements, an incorrect use of `:nth-child`, possible typos, misuse returning a NodeList instead of one element, and needing `.textContent`/`.innerText`. A video conference call appears nearby.

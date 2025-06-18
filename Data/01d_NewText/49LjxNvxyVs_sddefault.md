@@ -1,0 +1,1 @@
+This image presents a **3D data visualization** superimposed over a New York City map, specifically focusing on Manhattan. Numerous vertical bars vary in height and color (mostly green, some yellow), likely representing different magnitudes or categories affecting specific buildings or businesses across the densely packed urban area. The lower right corner shows "© 2014 HDS".

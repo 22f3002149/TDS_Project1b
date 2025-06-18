@@ -1,0 +1,1 @@
+This image promotes a beginner's guide titled "Beginner's Guide to the Bash Terminal." It features a split hexagon icon (white/ dark green) containing a $ symbol against a deep purple background. The central text reads: Beginner's / Guide to / the Bash / Terminal, suggesting an introductory resource for learning command-line skills using Bash.

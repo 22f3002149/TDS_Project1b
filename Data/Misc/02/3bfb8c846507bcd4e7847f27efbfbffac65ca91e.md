@@ -1,0 +1,1 @@
+This image shows JSON data containing movie information, such as titles (e.g., "Fight Club") and years. It highlights an error where the first movie's ID ("tt0437179") does not match the expected value ("tt20221436").

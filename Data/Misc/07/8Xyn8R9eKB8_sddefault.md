@@ -1,0 +1,1 @@
+This promotional thumbnail presents an introductory tutorial on SQLite. A friendly face looks towards a dual icon design featuring the database symbol alongside a quill pen resting over a blue square, all set against a dark teal/blue background to clearly signal the content's focus.

@@ -1,0 +1,1 @@
+A promotional graphic for a dbt tutorial features a headshot on the left in a circular frame, an orange dbt logo (stylized 'X') positioned top right, and "Get Started With DBT" as large white text above a smaller bottom line.

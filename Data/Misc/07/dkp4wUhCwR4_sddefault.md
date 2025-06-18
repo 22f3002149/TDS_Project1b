@@ -1,0 +1,1 @@
+This high-contrast image features text vertically stacked to spell out **PYTHON IMAGE PROCESSING** in a bold, golden-brown serif typeface against a dark teal background with subtle horizontal lines. It clearly represents our focus on using Python for image processing tasks.

@@ -1,0 +1,1 @@
+This Excel screenshot displays a statistical regression analysis output, presenting results including an ANOVA table with 'df', 'SS', and 'MS' values. It also shows coefficient estimates alongside statistics such as standard errors, t-statistics, p-values, and confidence intervals for variables like intercept, new cases per thousand, and new tests per thousand.

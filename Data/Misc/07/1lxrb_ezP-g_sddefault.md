@@ -1,0 +1,1 @@
+This dark gradient background title card promotes a Python script tutorial focused on analyzing data from JSON APIs. The white text explicitly states the main tasks: API analysis and result sorting, highlighting the specific application of coding skills in handling structured web data efficiently.

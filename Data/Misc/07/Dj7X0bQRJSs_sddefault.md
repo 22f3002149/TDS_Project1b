@@ -1,0 +1,1 @@
+This screenshot depicts a video conference call via Webex featuring two men discussing at an office desk amidst books. Andrew Thangaraj, wearing glasses and striped pants, sits on the left; another man in dark pants is visible on the right. A calendar hangs behind him, and items like a tablet are present on the table. The header indicates "IT Madras - NPTEL / B".

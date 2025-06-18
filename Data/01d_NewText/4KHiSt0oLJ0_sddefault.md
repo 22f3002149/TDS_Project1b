@@ -1,0 +1,1 @@
+This graphic promotes Cross-Origin Resource Sharing (CORS), clearly displaying its acronym in bold red letters outlined white, accompanied by the definition text below in a standard font. Set against light gray with red stripes at top and bottom, the design emphasizes security, likely from an educational video or tutorial explaining web resource sharing across origins.

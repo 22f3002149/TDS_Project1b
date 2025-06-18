@@ -1,0 +1,1 @@
+This promotional graphic highlights free AI software available on your desktop using large white text against a dark background. A vibrant robotic llama constructed from metallic silver and rainbow sections sits alongside this message, with a playful pig icon featuring a screen face pointing an arrow towards the robotic creature.

@@ -1,0 +1,1 @@
+This screenshot shows a Google Colab notebook running Python code to generate text embeddings via OpenAI's API (`text-embedding-ada-002`). The user has securely accessed their `OPENAI_API_KEY` using the secrets panel. A video conference window confirms they are collaborating with someone named Arjun S while working in this environment.

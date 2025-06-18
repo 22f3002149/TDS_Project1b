@@ -1,0 +1,1 @@
+This image shows someone actively participating in a Google Meet conference call (with 24 participants), indicated by presentation mode and controls, while simultaneously working on a specific Colab notebook ("Untitled2.ipynb") with code cells and connected runtime.

@@ -1,0 +1,1 @@
+This graphic image represents Data Science Week 2 Session 3 using a central black rectangle displaying "WEEK 2" (top) and "SESSION 3" (bottom). Framed by geometric shapes, tools icons, network lines, and a globe, it visually symbolizes fundamental concepts explored in this educational slide.

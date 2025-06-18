@@ -1,0 +1,1 @@
+This thumbnail image features the GitHub logo with text that reads "How to run Github Actions on a Schedule". It promotes content demonstrating how to automate recurring tasks by setting up scheduled workflows within GitHub's platform.

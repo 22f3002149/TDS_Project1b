@@ -1,0 +1,1 @@
+This markdown preview captures a split-screen presentation image, featuring text discussing "Text embeddings & semantic search" by Lewis (with emoji), overlaid on a pink background. The right side shows a close-up of Lewis' face with a beard, dark curly hair, and digital background, suggesting an educational or tutorial context presented by this individual named Lewis.

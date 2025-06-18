@@ -1,0 +1,1 @@
+A Google Colaboratory user interface shows a "Clustering.ipynb" notebook displaying various financial metrics including cluster assignments and figures like ROCE %, Market Cap, and Stock Return %. During what appears to be a remote data analysis session via video conference, one participant has their microphone muted.

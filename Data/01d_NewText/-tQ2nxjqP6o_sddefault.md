@@ -1,0 +1,1 @@
+This image shows the GitHub Codespaces interface. A prominent cloud graphic dominates the screen, flanked by an editor displaying Python code (with syntax highlighting) and a file explorer panel listing project assets. Standard IDE elements are present, fitting a dark theme conducive to tutorials on using this online development environment for coding projects.

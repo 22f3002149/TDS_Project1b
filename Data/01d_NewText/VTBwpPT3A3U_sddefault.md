@@ -1,0 +1,1 @@
+A colorful flat-design illustration showcases various icons representing core data science elements like visualization (graphs), machine learning (networks/algorithms), big data (blocks/connections), and general concepts (gears/pencils). Vibrant blues, reds, yellows, and greens appear against a muted orange background within a geometric border.

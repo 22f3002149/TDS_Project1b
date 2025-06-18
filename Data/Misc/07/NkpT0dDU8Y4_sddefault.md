@@ -1,0 +1,1 @@
+This Excel screenshot displays COVID-19 tracking data across locations like Brazil through columns including date, new cases, and bed occupancy metrics. A dialog box configures a 3-color conditional formatting rule using a color scale based on the midpoint percentile of selected values (50th).

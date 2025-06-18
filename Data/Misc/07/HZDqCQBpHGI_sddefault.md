@@ -1,0 +1,1 @@
+Comicgen offers a simple web-based comic creation tool displaying a stick figure. Users can customize the file type (SVG, PNG), change background colors via an input field, and share content using Twitter integration. The clean interface includes creator information in its footer.

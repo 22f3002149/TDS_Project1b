@@ -1,0 +1,1 @@
+This promotional graphic introduces Git version control with its iconic red octopus-like logo prominently displayed above bold white text reading "git". Below it is a larger, bolder subtitle: "Command-Line Fundamentals". The muted grayish-brown background suggests informational content likely advertising an educational course or tutorial on using Git via the command line.

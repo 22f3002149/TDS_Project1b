@@ -1,0 +1,1 @@
+This image demonstrates code interactions in a Python interpreter focusing on JSON handling. A variable `job` is initialized with a string containing JSON data (`"{'name':'jivraj'}"`). The function `json.loads()` parses this string into a dictionary, showcasing how to convert JSON strings back into usable Python objects and access specific values like `'name'`.

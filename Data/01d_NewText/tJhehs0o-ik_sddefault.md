@@ -1,0 +1,1 @@
+This image shows a GIS professional using QGIS software focused on South Sudan's map. Red polygons and black lines represent administrative divisions, while ".shp" files indicate data sources loaded via panels like Layers and Browser. A video conference window sits beside the interface, suggesting collaboration while analyzing geographical data.

@@ -1,0 +1,1 @@
+This image shows a web-based data profiling dashboard in use during a video conference. The analyst examines reports detailing distinct values, missing data percentages, unique value distribution via histograms, and memory usage statistics (like 'City_property_population') before the meeting concludes.

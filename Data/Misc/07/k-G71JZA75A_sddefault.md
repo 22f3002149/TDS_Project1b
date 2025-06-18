@@ -1,0 +1,1 @@
+This digital graphic showcases an OpenAI GPT model logo, depicted in white within a vibrant black rectangle outlined by a glowing blue-purple-pink gradient border. The central text "gpt-image-1" reinforces its association with image generation technology derived from the GPT models.

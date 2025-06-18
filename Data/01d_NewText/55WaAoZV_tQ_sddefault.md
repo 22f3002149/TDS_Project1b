@@ -1,0 +1,1 @@
+This graphic promotes capabilities related to the "пX" brand using a striking visual style. Its deep charcoal grey/black background creates a modern feel, accented by a red stripe and the eye-catching bold red logo featuring stylized letters 'п' and 'X'. The light grey text reads "what you can do with", positioned centrally alongside this energetic symbol.

@@ -1,0 +1,1 @@
+This promotional graphic showcases a "FastAPI Crash Course" course title on a dark blue background. A green circular logo with a white lightning bolt icon is featured prominently, suggesting speed and modernity alongside minimalist design elements like an abstract shape in the top-left corner and text hierarchy emphasizing efficiency and quick learning.

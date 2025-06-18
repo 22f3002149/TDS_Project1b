@@ -1,0 +1,1 @@
+This image captures an educational explanation of sparse matrices on Wikipedia. It focuses on the Compressed Sparse Row (CSR) format, illustrating its use with examples including a mostly-zero matrix and specific vectors (`V`, `COL_INDEX`) representing row pointers and column indices for efficient storage and computation in data science.

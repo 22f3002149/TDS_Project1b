@@ -1,0 +1,1 @@
+This image presents a promotional thumbnail for Google Sheets tutorials or content creation. The top-left shows "**Google Sheets**" in large, bold white lettering on a green background. A glowing spreadsheet icon is paired with an instructor who smiles directly at the viewer. The dark black background effectively highlights these key elements.

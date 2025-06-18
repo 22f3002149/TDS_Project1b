@@ -1,0 +1,1 @@
+This image shows a Python error. A `ModuleNotFoundError` occurred because the code on `/app/app.py`, line 11 (importing `from fastapi import FastAPI`), couldn't find the 'fastapi' module. This indicates that the required package was not installed in the current environment.

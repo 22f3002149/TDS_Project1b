@@ -1,0 +1,1 @@
+This screenshot captures a graded assignment interface on an online learning platform (LMS). The main content confirms whether the user has viewed Assignment 1 details. A sidebar lists course modules, including 'Graded Assignment 1' (selected), worth one point. Students answer "Yes" or "No" and submit via the "Submit Answers" button at the bottom.

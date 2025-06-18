@@ -1,0 +1,1 @@
+This slide presents content from the IIT Madras online degree program. It introduces the BBC Weather location service as a key example of acquiring data relevant to geographical analysis within the broader topic of 'TOOLS IN DATA SCIENCE,' taught by Instructor Anand S with tutorial support from Mahesh Balan U, using clean Sans-serif fonts on a light gray background.

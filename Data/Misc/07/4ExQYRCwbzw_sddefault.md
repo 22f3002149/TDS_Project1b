@@ -1,0 +1,1 @@
+This graphic promotes **FastAPI**, a modern Python framework for building web applications. It highlights how implementing **OAuth2** authentication can be straightforward and "SIMPLE!". Icons feature Python, security (lock), and Google integration ('G'). A mock login form suggests practical application via code, presented on a dark teal background with red accents.

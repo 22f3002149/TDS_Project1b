@@ -1,0 +1,1 @@
+This image shows a Jupyter Notebook interface focused on data analysis. A table of numerical data dominates the view, along with code snippets manipulating variables and displaying outputs below the table. Browser tabs hint at tools like Google Drive nearby, while a small video conference participant sits in the lower right corner.

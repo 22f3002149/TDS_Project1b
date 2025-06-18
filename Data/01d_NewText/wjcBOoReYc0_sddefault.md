@@ -1,0 +1,1 @@
+This presentation slide introduces Image Magick, focusing on geographical imagery like an African landscape map. A large title sits atop layered background images of winding roads and forests, visible through a pink border overlaying a purple gradient section frame.

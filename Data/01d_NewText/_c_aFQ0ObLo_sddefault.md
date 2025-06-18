@@ -1,0 +1,1 @@
+This minimalist image features a completely black background with white text overlaying it. The central, prominent element is the sans-serif font spelling out "Dixon". Positioned subtly in the bottom right corner as a watermark is the additional white text "zoom", clearly indicating its secondary purpose or branding context.

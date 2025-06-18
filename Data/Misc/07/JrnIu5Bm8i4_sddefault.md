@@ -1,0 +1,1 @@
+This animated graphic uses a gradient background transitioning from blue to orange, with a central white coffee or tea cup illustration featuring rising steam surrounded by sunburst rays. Below this is bold, sans-serif "Animation" text in white, creating an eye-catching flat design suitable for highlighting animation-related content.

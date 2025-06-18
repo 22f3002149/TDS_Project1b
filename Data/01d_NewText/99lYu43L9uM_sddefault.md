@@ -1,0 +1,1 @@
+This image shows Visual Studio Code displaying JSON sales data from "city-product-sales.json". The file contains structured records for various cities and products (like Bananas or Flour), each with a 'sales' quantity. Readability is enhanced by syntax highlighting, and the editor provides metadata like line numbers and encoding details.

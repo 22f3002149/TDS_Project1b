@@ -1,0 +1,1 @@
+This image presents an overview graphic for "Markdown Crash Course" by TraversyMedia.com. It features a stylized 'M' symbol with a downward arrow, set against dark gray, flanked by a light gray section displaying the text "Markdown" (bold) and "Crash Course". The branding is indicated at the bottom left.

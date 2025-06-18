@@ -1,0 +1,1 @@
+This image shows an Excel spreadsheet displaying financial data across columns labeled with two-letter codes (CG, CH, etc.). Rows contain dates starting from October 25th. The main cells hold numerical values formatted consistently, appearing likely to represent prices or rates over time.

@@ -1,0 +1,1 @@
+This image shows an ffmpeg command-line window interface. The black background features a dark blue title bar displaying "ffmpeg" and the path prompt "C:>". Lighter blue text reads "How to use", followed by bolder, brighter blue text for "FFMPEG". It's clearly designed as a tutorial screenshot guiding users on utilizing FFmpeg effectively via its command-line.

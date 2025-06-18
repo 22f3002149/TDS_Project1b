@@ -1,0 +1,1 @@
+This image shows Google Docs' help page for the `IMPORTHTML` function, designed to extract data from web pages into your document. Key elements include its syntax (`IMPORTHTML(url, query, index)`), parameter explanations (url, query type like "table", and specific table/list index starting at 1), and sample usages referencing Wikipedia or a cell range (A2:C2).

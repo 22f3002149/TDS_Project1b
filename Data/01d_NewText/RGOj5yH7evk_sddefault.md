@@ -1,0 +1,1 @@
+This minimalist title card promotes a "Git and GitHub Crash Course". It features three logos at the top - Bitbucket's compass with droplet (**GitHub**) - white text reading "**Git** and **GitHub**" prominently below.

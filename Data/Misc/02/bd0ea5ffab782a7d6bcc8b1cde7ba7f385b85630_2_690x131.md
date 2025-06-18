@@ -1,0 +1,3 @@
+# Data Science Teaching Content
+
+This image presents results from a correlation analysis in Delhi evaluating how motorcycle resale value (price retention %) relates to specific Yamaha models. The Pearson Correlation Coefficients quantify the impact: Mileage (-0.01), Average Daily Distance (-0.00), and Engine Capacity (+0.13, with red warning sign) have minimal effects according to these data points, whereas Fuel Capacity shows a strong positive correlation of +0.95.

@@ -1,0 +1,1 @@
+This image displays a Codespaces dashboard screenshot showing current resource usage. It indicates 100% used core hours (with a filled red progress bar) but only $0.00 spent on them, while storage is at ~48% capacity ($0.00 cost). Both quotas reset soon and incur no current charges.

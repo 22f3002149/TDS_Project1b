@@ -1,0 +1,1 @@
+This screenshot depicts a data science learning setup featuring multiple windows: a presentation by S. Anand titled "Get the Data Introduction," a VS Code editor focused on scraping HTML and XML files, and a video conference window with Carlton D’Silva. The key takeaway is an overview of essential tools for acquiring data in data science projects.

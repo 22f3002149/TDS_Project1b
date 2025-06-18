@@ -1,0 +1,1 @@
+This image shows a JSON-formatted error message displayed against a black background. The specific content reads: `{"detail":"Method Not Allowed"}`. It indicates that an API or web server request used an invalid HTTP method, resulting in this standard 4xx response code being presented visually here.

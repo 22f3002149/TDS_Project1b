@@ -1,0 +1,1 @@
+This image shows a student's view of an online coding assignment platform exam.sanand.workers.dev/tds-2025-01-ga2. Key elements include a red header bar showing the assignment end date (Feb 2) and score (0), user login status, recent saves with timestamps, reload buttons, and visible questions like writing Markdown documentation.

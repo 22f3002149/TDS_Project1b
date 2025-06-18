@@ -1,0 +1,1 @@
+This screenshot captures Microsoft Power BI desktop displaying a city population dataset. A bar chart visualizes the data centrally (blue bars, line). Side panels offer filtering options, available visuals like maps or charts, and data fields organized hierarchically (City/State/Country). The top ribbon includes standard tabs for navigation such as Home, Insert, and Modeling.

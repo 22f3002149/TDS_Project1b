@@ -1,0 +1,1 @@
+This visually striking title slide uses a dark background and vibrant teal/orange/pink bands. It prominently displays "WEEK 4 SESSION 4" in large white text, stacked vertically. The band features minimalist flat illustrations related to design (paintbrush), technology (circuit board, record player), and creativity (globe, scissors, pencil).

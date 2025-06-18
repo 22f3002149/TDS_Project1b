@@ -1,0 +1,3 @@
+Here's a concise summary of the image content:
+
+This image depicts an online practice exam interface specifically for ITM Online BS Degree students studying CT (Computer Technology). A promotional graphic on the left encourages using previous question papers from www.quizpractice.space. The right side shows the active 'Practice' mode exam screen, displaying subject details and highlighting Question 3 with a timer showing 9 seconds elapsed.

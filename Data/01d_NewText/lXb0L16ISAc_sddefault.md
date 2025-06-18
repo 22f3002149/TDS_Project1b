@@ -1,0 +1,1 @@
+OpenAI presents a vibrant promotional slide for its audio models accessible via API. A dynamic blue background evokes innovation and sound waves, contrasting with bold white text stating "Audio Models in the API" beside the company name "OpenAI". The clean composition effectively highlights key information against an engaging tech-themed backdrop.

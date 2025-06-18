@@ -1,0 +1,1 @@
+This graphic serves as an engaging title card for a specific week and session within a series (WEEK 3 / SESSION 4). Its design features a dark blue central rectangle on a vibrant golden yellow background, surrounded by a colorful geometric pattern border incorporating shapes, iconography (like pencils), and modern flat styling.

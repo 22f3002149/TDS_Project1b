@@ -1,0 +1,1 @@
+This image captures a Podman containerization tutorial presentation. Speaker Giuseppe Scaramuzzino, identified by his name badge, explains the tool while on-stage visuals highlight "Podman tutorial: from zero to hero" and announce its availability as a one-hour course at 'amadeus'.

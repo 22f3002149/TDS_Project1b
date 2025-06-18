@@ -1,0 +1,1 @@
+This dark green promotional graphic for a JSON Crash Course features blurred code lines against an immersive background. Large, white sans-serif text declares "Crash Course", with "JSON" (JavaScript Object Notation) in blocky font highlighted centrally. A small stylized bug icon sits at the top left.

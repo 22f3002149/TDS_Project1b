@@ -1,0 +1,1 @@
+This image presents an introductory header slide focused on Python image manipulation tutorials. The dark teal/ navy background contrasts with prominent white text: 'Python' at the top, followed by the Pillow library name, and finally specifying 'Image Manipulation'. A decorative yellow graphic adds visual interest to the right side panel.

@@ -1,0 +1,12 @@
+# Topic: Agenda for Today's(21/01/2025) session
+
+Hi all,
+Agenda for Today’s(21/01/2025) session
+
+API
+Vercel deployment
+Github Actions
+Docker hub
+
+kind regards
+Jivraj

@@ -1,0 +1,3 @@
+Here is a detailed description of the image's content:
+
+This dark-themed GitHub data analysis tool focuses on competitive intelligence for recruitment, enhancing efficiency by automating tasks and providing reliable data-driven insights. Users input an ISO date (e.g., '2024-01-01T00:00:00Z') to filter users joined before that date or after a specific exclusion time ('ignore ultra-new users who JUST joined, ie. after 3/18/2025, 7:21:18 PM').

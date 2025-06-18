@@ -1,0 +1,1 @@
+Ubuntu and Windows operating system logos sit side-by-side on a visually striking gradient background transitioning from maroon to orange-red. Ubuntu's logo shows three interlocked orange figures within a white circle, while Windows features four blue squares forming its square design. Small dots connect them across the vibrant background.

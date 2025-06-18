@@ -1,0 +1,1 @@
+This promotional thumbnail showcases a free online **Prompt Engineering Full Course**. A fair-skinned woman with blonde hair and glasses addresses the viewer directly. Lines of blurred computer code (likely JavaScript) form a technical background on her left. The bottom right corner features the freeCodeCamp logo, reinforcing the platform hosting this course.

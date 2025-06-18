@@ -1,0 +1,1 @@
+This slide introduces three main types of data values: Categorical (for non-numeric labels like Boolean `True/False`, Unordered categories, or Ordered levels), Numerical (quantitative measurements), and Composite (data structures combining multiple elements).

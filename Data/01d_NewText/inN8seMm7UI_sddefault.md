@@ -1,0 +1,1 @@
+This is a promotional graphic for a beginner-level Google Colab tutorial focused on TensorFlow coding. It features an instructor (man, short brown hair) in a light blue shirt paired with bright orange text ("Intro to Google Colab") and the "Coding TensorFlow" logo against a light gray neural network graphic background.

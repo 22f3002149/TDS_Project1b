@@ -1,0 +1,1 @@
+This promotional graphic showcases an AI prompt testing tool with a futuristic aesthetic. Key text highlights "FAST CHEAP ACCURATE" benefits against the backdrop of abstract digital effects. A crossed-out icon signifies less effective methods, contrasting with the successful teal design symbolizing optimized prompts and performance comparison.

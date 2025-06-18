@@ -1,0 +1,3 @@
+This image shows a Google Chrome browser displaying a Google Colaboratory notebook in dark mode. The address bar indicates local execution ('127.0.0.1'). A small logo confirms the platform, while colored circles near the top suggest status indicators or flags.
+
+The notebook title mentions "Toxic Data Sc - TDS 2023 Jam S..." Below it lies code likely representing metadata and data points for analysis related to 'toxic data'.

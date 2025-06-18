@@ -1,0 +1,1 @@
+This image shows a tutorial screenshot where a man uses the command line to interact with Large Language Models (LLMs). On the left appears a dark text box displaying commands for installing (`brew install llm`, `pipx` or `pip`) and configuring the `llm` tool, including setting an OpenAI API key. A bottom banner confirms this as "LLMs on the command line".

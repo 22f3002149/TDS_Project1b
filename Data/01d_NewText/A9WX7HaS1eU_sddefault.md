@@ -1,0 +1,1 @@
+A Google Colab notebook (`IndoTextClassification.ipynb`) displays Python code for sentiment analysis, processing text reviews with labels and calculating subjectivity/polarity using TextBlob. This work is shown alongside a video call participant, within an environment tracking resource usage via its interface icons.

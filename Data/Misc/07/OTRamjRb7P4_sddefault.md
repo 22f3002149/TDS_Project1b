@@ -1,0 +1,1 @@
+This image shows a Windows file explorer displaying bishop chess piece images stored within specific folders like "Data_Chessman", "Evaluation", and the open "Bishop" directory. A grid of thumbnails with numeric filenames (e.g., "00000001") fills the main window, suggesting these files form a structured dataset for machine learning tasks focused on bishop recognition.

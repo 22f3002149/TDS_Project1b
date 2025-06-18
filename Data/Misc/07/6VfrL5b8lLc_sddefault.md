@@ -1,0 +1,1 @@
+This image depicts a modern presentation slide design featuring a colorful patterned border with blue, orange, and teal geometric shapes like computers and globes. A dark central area displays "WEEK 3 SESSION 3" in white text, clearly indicating the session's place in an educational or course series sequence using visually distinct elements.

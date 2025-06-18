@@ -1,0 +1,1 @@
+This slide presents a tech talk image showing Gaurav Kamboj (@oyehooye), Cloud Architect at Hotstar, speaking on stage with dark attire (brown jacket over gray shirt). The black background highlights his right hand gesture. Text overlays include "hotstar tech_" in green top-left corner and the main title "Scaling hotstar for 25 million concurrent viewers" below Kamboj's name.
