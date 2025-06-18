@@ -78,7 +78,8 @@ def load_embeddings():
     return data["chunks"], data["embeddings"]
 
 def get_image_description(image_path):
-    client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
+    #client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
+    client = genai.Client(api_key=AIzaSyC5YkGur9cSxFSBotVm1q5JTYO-bpnNGGY)
     my_file = client.files.upload(file=image_path)
     response = client.generate_content(
         model="gemini-2.0-flash",
@@ -135,7 +136,6 @@ def generate_openai_response(question: str, context: str) -> str:
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
-
 
 if __name__ == "__main__":
     import uvicorn
